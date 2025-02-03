@@ -6,7 +6,7 @@
  *
  * Usage:
  *   Run the script with Node.js:
- *     $ node testReport.js
+ *     $ node test_report.js
  *
  * Note: Ensure that the .env file contains the correct MONGO_URI.
  *
