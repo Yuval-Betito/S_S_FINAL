@@ -23,8 +23,8 @@ const mongoose = require('mongoose');
 const app = require('../app'); // Ensure that app.js is in CommonJS format (using require and module.exports)
 
 // Import models to clear and seed test data
-const User = require('../models/User');
-const Cost = require('../models/Cost');
+const User = require('../models/user');
+const Cost = require('../models/cost');
 
 describe('Cost Manager API Unit Tests', function () {
 

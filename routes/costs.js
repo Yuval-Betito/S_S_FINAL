@@ -8,8 +8,8 @@
 
 const express = require('express');
 const router = express.Router();
-const Cost = require('../models/Cost');
-const User = require('../models/User');
+const Cost = require('../models/cost');
+const User = require('../models/user');
 
 /**
  * POST /api/add
